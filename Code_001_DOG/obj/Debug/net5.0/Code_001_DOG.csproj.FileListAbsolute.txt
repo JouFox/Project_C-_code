@@ -1,0 +1,16 @@
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.csproj.AssemblyReference.cache
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.AssemblyInfoInputs.cache
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.AssemblyInfo.cs
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.csproj.CoreCompileInputs.cache
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\bin\Debug\net5.0\Code_001_DOG.exe
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\bin\Debug\net5.0\Code_001_DOG.deps.json
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\bin\Debug\net5.0\Code_001_DOG.runtimeconfig.json
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\bin\Debug\net5.0\Code_001_DOG.runtimeconfig.dev.json
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\bin\Debug\net5.0\Code_001_DOG.dll
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\bin\Debug\net5.0\Code_001_DOG.pdb
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.dll
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\refint\Code_001_DOG.dll
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.pdb
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\Code_001_DOG.genruntimeconfig.cache
+C:\Users\JouFox\Desktop\Хоби\Codd C#\Code_001_DOG\obj\Debug\net5.0\ref\Code_001_DOG.dll
