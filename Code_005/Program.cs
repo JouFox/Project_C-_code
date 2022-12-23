@@ -21,7 +21,7 @@
 
 Console.Write("Ведите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
-if (((a < 100) & (a >0)) || ((-100 < a) & (a < 0)))
+if (((a < 100) & (a >0)) || ((-100 < a) & (a <= 0)))
     Console.WriteLine($"Третья цифра числа {a}, не найдена ");
 else if ((a > 999) || (-999 > a)) // Блок 2 Задания
 {
